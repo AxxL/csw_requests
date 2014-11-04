@@ -1,5 +1,0 @@
--*- mode:org -*-
-
-* Post-Request über WGET
-
-wget --post-file grbi01.xml -O csw.xml --header="Content-Type: text/xml" http://localhost:8080/geonetwork/srv/eng/csw 
